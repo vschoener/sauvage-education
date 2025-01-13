@@ -38,7 +38,7 @@ export default function Services() {
           <div className="card">
             <h3>Cours Collectifs</h3>
             <p>
-              Apprenez avec d'autres propriétaires en milieu naturel.
+              {`Apprenez avec d'autres propriétaires en milieu naturel.`}
             </p>
           </div>
         </div>
